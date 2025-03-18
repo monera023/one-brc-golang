@@ -1,0 +1,100 @@
+Sorochinsk;55.1
+Doctor Juan Eulogio Estigarribia;-89.9
+Soeda;86.1
+Highland Village;39.9
+Presidente Olegário;-55.1
+Georgina;-57.5
+Gauting;-93.4
+Nagtala;74.6
+Capelle aan den IJssel;-5.1
+Jasmine Estates;83.4
+Perth East;5.9
+Montélimar;-58.1
+Sông Đốc;9.7
+Andiyappanūr;-57.0
+Lago Vista;-92.6
+Piskent;-16.5
+Nansana;31.2
+Tarija;-73.8
+Santiago Ixtayutla;23.7
+Fosses;45.5
+Beiwanglizhen;26.0
+Flexeiras;49.4
+Villingen-Schwenningen;-0.7
+Fanlu;-61.8
+Yaguate;69.8
+Piraí do Norte;69.4
+Gallatin;-52.3
+Escondido;74.5
+Rudauli;-87.7
+Cantley;64.2
+Trebišov;65.1
+Royse City;11.8
+New Braunfels;64.4
+Oconomowoc;-21.4
+Morrovalle;85.0
+Massarosa;38.4
+Vacaville;-79.5
+Nazaré Paulista;-92.9
+Saïda;-49.1
+Acari;45.9
+São Domingos do Prata;-66.7
+Highland Park;-42.6
+Montecchio Maggiore;-54.5
+Adjohon;24.5
+Herentals;-82.2
+Nova Olímpia;85.2
+Kuknūr;66.6
+Mabalacat;17.5
+Pinole;92.3
+Pa Mok;85.7
+Eden;72.3
+Hinigaran;-28.6
+Andranofasika;-1.8
+Roztoky;-81.7
+Boskovice;-82.1
+Nyamira;69.7
+Portmore;89.3
+La Chaux-de-Fonds;-97.1
+Ālampālaiyam;3.0
+Trakai;48.7
+Baichigan;-21.0
+Barwon Heads;25.2
+Balakliia;29.9
+Binjai;-90.4
+San Ignacio Cohuirimpo;50.4
+Obikiik;53.5
+Sonseca;87.8
+Pianiga;28.1
+Beitbridge;72.5
+Teopisca;-86.7
+Vallegrande;-93.0
+Penkridge;49.2
+Southborough;-61.3
+Oued Zem;-19.8
+Einsiedeln;-49.0
+Nanbu;-27.2
+Gundrājukuppam;90.7
+Faetano;-15.0
+Forest Hills;60.4
+Denver;-31.0
+Ŏjŏk-tong;52.2
+Olomouc;-39.5
+Itupeva;42.1
+Bitterfeld;67.2
+Arvand Kenār;-58.2
+Soamanandrariny;-78.0
+Chuy;45.7
+Buddh Gaya;96.1
+Campos Belos;27.6
+Mailavaram;63.1
+Suzdal;34.2
+Dallgow-Döberitz;-18.2
+Pālamedu;-25.3
+Luodong;-22.8
+Guaraciaba;-41.0
+Bestöbe;-90.3
+Reyes;-12.8
+Khesht;42.2
+Chapel en le Frith;-97.3
+Tongye;-35.0
